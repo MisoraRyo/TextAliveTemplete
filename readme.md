@@ -19,4 +19,4 @@ Run this command in your terminal to open a local server at localhost:8080
 npm run dev
 ```
 
-# ご自由にお使いください
+# _
