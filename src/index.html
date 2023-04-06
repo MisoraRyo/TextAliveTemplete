@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>TextaAlive LiveSever</title>
+<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="description" content="">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+<style>
+#gpu-text{
+    position: absolute;
+    top: 15px;left:20px;
+    z-index: 100;color: #eee;font-size: .5em;
+}
+#Play-Btn{
+    position: absolute;
+    top: 50px;left:20px;
+    z-index: 100;font-size: 2em;
+}
+#Stop-Btn{
+    position: absolute;
+    top: 50px;left:140px;
+    z-index: 100;font-size: 2em;
+}
+</style>
+</head>
+<body>
+    <div id="gpu-text"></div>
+    <button id="Play-Btn">PLAY</button>
+    <button id="Stop-Btn">STOP</button>
+    <!--グラフィックス-->
+    <canvas id="MyCanvas"></canvas>
+</body>
+</html>
