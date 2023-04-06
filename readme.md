@@ -1,4 +1,4 @@
-# TextAlive Templete Ver0.1
+# TextAlive Templete Ver 0.1
 
 私的に使っているTextAlive APP開発用のベースプロジェクトファイル_Ver0.1
 
@@ -19,4 +19,4 @@ Run this command in your terminal to open a local server at localhost:8080
 npm run dev
 ```
 
-# ＿
+# ご自由にお使いください
