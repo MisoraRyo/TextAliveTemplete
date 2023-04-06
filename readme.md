@@ -4,6 +4,8 @@ TextAlive APP開発用のベースプロジェクトファイル
 
 正常に実行するにはTextAliveのトークンが必要です。
 
+<img src="./static/image.png" width="100%"/>
+
 # Getting Started
 Download and install Node.js on your computer (https://nodejs.org/en/download/).
 
