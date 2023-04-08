@@ -4,6 +4,8 @@
 
 正常に実行するにはTextAliveのトークンが必要です。
 
+開発者用のコンソールに、positionと歌詞が表示されるものです。
+
 <img src="./static/image.png" width="100%"/>
 
 # Getting Started
