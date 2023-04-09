@@ -1,6 +1,6 @@
 # TextAlive Templete Ver 0.1
 
-私的に使っているTextAlive APP開発用のベースプロジェクトファイル_Ver0.1
+TextAlive APP開発用のベースプロジェクトファイル_Ver0.1
 
 正常に実行するにはTextAliveのトークンが必要です。
 
