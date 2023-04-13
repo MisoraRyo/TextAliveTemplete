@@ -2,7 +2,7 @@
 
 TextAlive APP開発用のベースプロジェクトファイル_Ver0.1
 
-正常に実行するにはTextAliveのトークンが必要です。
+正常に実行するにはTextAliveのトークンが必要です。Three.jsベースです。
 
 開発者用のコンソールに、positionと歌詞が表示されるものです。
 
