@@ -328,7 +328,7 @@ Object.assign(stats.dom.style, {'position': 'fixed','height': 'max-content',
 
 /////////////////////////////////////////////////////////////////////////
 ///// CAMERAS CONFIG
-const camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 0.1, 1000)
+const camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 1, 1000)
 camera.position.set(0.0, 0.0, 0.0);
 scene.add(camera)
 
